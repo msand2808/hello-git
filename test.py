@@ -1,2 +1,1 @@
-print('New Hello Git cambiado')
-print('Proyecto a medias')
+print('Hello GitHub')
